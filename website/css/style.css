@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+
+
+p {
+    font-family: Gabriola;
+    font-size: 20px;
+    color: red;
+}
+h1 {
+    color: red;
+    font-family: Futura;
+    font-size: 300%;
+
+}
+body {
+    background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+</html>
+
+li {
+    display: inline;
+    color: white;
+    font-family: Helvetica;
+}
+
+
+.links{
+ color: white;
+  font-family: Helvetica;
+}
+
+
+<ul>
+<li><a href="collage.html"class="links">Home Page</a>
+<a href="index1.html" class="links">Next Page</a>
+<a href="index1.html"class="links">Home Page</a>
+<a href="video.html" class="links">Next Page</a>
+</style>
+</head>
+<body>
+
+<h1>Portfolio Website</h1>
+<h2>GifcARDS</h2>
+<h3>Title:Modern Religion</h3>
+
+</style>
+</head>
+
+
+</body>
+</html>
